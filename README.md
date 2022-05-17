@@ -4,7 +4,7 @@ Apresentação (olá) {
 	Estudante = empolgado de programação;
 	Atualmente (sigo) {
 		trilha FullStack
-	} me divertindo muito em aprender {
+	} focado em aprender {
 		 meu Linkedin https://www.linkedin.com/
 	}
 }	

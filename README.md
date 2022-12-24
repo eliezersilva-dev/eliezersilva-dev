@@ -1,7 +1,7 @@
 ~~~~
 Apresentação (olá) {
 	Sou = EliezerSilva;
-	Estudante = empolgado de programação;
+	Estudante = entusiasta de programação;
 	Atualmente (estou) {
 		estudando Python
 	} focado em aprender {

@@ -30,6 +30,8 @@
 	<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<br>
 	<br>
-	<br>
-	![Snake animation](https://github.com/eliezersilva-dev/eliezersilva-dev/blob/output/github-contribution-grid-snake.svg)
-</div>
+	<br>	
+</div
+	
+![snake gif](https://github.com/eliezersilva-dev/eliezersilva-dev/blob/output/github-contribution-grid-snake.svg)
+
